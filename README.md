@@ -1,8 +1,6 @@
 # TIC-TAC-TOE
 
 
-LINK: file:///C:/Users/adity/OneDrive/Desktop/wedev_project/index.html
-
 
 HTML
 <!DOCTYPE html>
